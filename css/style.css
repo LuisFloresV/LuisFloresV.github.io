@@ -1,0 +1,45 @@
+body {
+  background: linear-gradient(90deg, rgba(241, 241, 241, 1) 0%, rgba(247, 230, 208, 1) 100%);
+  font-size: 1.3rem;
+  font-family: 'Roboto', sans-serif; 
+
+}
+
+#logo {
+  height: 90px;
+  max-width: 100%;
+}
+
+.hero-img {
+  height: auto;
+  max-width: 60%;
+}
+
+.info-img {
+  height: 250px;
+  max-width: 60%;
+}
+
+.hero-font {
+  color: #E94D1A !important;
+}
+
+.container-h {
+  height: auto;
+}
+
+.info-main {
+  background: #FFFFFF;
+}
+
+.hero-container {
+  margin-top: 120px;
+}
+
+#blog, #servicios, #seguros, #hero{
+  padding: 10vh 0vh !important;
+}
+
+.nav-item{
+  margin-left: 2rem;
+}
